@@ -103,19 +103,19 @@ Anten, **corporate feed besleme ağı** kullanılarak RF sinyalini dizi elemanla
 ## Projenin Yapım Aşaması Görselleri
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8b9388f-4dc2-4494-9af3-b08f2eca3502" width="25%" />
-  <img src="https://github.com/user-attachments/assets/e58381cd-c587-4917-8f30-6b0062158702" width="35%" /><br>
+  <img src="https://github.com/user-attachments/assets/47cd392c-bd2e-42b6-84eb-07f8801aa3a8" width="25%" />
+  <img src="https://github.com/user-attachments/assets/a3158345-0f85-43de-b2c4-890ed5bf6145" width="35%" /><br>
   <em align="center">Bakıra Gerber Çıktısının Ütü İle Basılması ve Sonucu</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca95ea68-e520-4361-9ada-aaaa85b6ae6e" width="28%" />
-  <img src="https://github.com/user-attachments/assets/32c12069-1029-479c-a31b-cf8090442d38" width="23%" /><br>
+  <img src="https://github.com/user-attachments/assets/83fdca11-84c0-4967-944a-0164aea1702f" width="28%" />
+  <img src="https://github.com/user-attachments/assets/22d4ac0e-fe83-4538-a9ef-3b6aa1fb004d" width="23%" /><br>
   <em align="center">Bakırın Eritilmesi ve Mürekkebin Çıkartılması</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/228dface-6966-452e-a3b1-5312b6fb6430" width="25%" /><br>
+  <img src="https://github.com/user-attachments/assets/5a23e96f-2159-4b34-a15d-215d17c1cb41" width="25%" /><br>
   <em align="center">SMA Lehimlenmiş Anten</em>
 </p>
 
